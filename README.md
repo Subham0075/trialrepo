@@ -1,4 +1,4 @@
 # trialrepo
 This is my first Git repository.
 <br>
-Author - Subham Pattnaik
+Author - Subham Pattnaik(DEV)
